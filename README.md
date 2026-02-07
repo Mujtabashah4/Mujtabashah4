@@ -15,7 +15,7 @@ I'm a dynamic and results-driven **Data Scientist** with a strong background in 
 
 - 🌱 Currently exploring **Generative AI, Docker & Kubernetes**
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
-- 📫 Reach me at **mujtabashah4@gmail.com**
+- 📫 Reach me at **mujtabashah1204@gmail.com**
 - ⚡ Fun fact — I like Golf 🏌️
 
 ---
