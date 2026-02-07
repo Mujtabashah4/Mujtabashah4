@@ -11,12 +11,25 @@
 
 ### 👋 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 I'm a dynamic and results-driven **Data Scientist** with a strong background in Machine Learning, Deep Learning, and Artificial Intelligence. I'm passionate about turning raw data into real-world impact and always looking to collaborate on meaningful AI projects.
 
 - 🌱 Currently exploring **Generative AI, Docker & Kubernetes**
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
 - 📫 Reach me at **mujtabashah1204@gmail.com**
 - ⚡ Fun fact — I like Golf 🏌️
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,7 +44,7 @@ I'm a dynamic and results-driven **Data Scientist** with a strong background in 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mujtabashah4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mujtabashah4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
   &nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtabashah4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 </div>
@@ -39,7 +52,7 @@ I'm a dynamic and results-driven **Data Scientist** with a strong background in 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujtabashah4&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=555555"/>
+  <img src="https://streak-stats.demolab.com/?user=Mujtabashah4&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=555555"/>
 </div>
 
 ---
