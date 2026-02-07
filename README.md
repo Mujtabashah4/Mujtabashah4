@@ -16,7 +16,7 @@
 
 I'm a dynamic and results-driven **AI/ML Engineer** with a strong background in Machine Learning, Deep Learning, and Artificial Intelligence. I'm passionate about turning raw data into real-world impact and always looking to collaborate on meaningful AI projects.
 
-- 🌱 Currently exploring **Generative AI, Docker & Kubernetes**
+- 🌱 Currently exploring **Generative AI, Docker**
 - 💬 Ask me about **AI, Machine Learning & Deep Learning**
 - 📫 Reach me at **mujtabashah1204@gmail.com**
 - ⚡ Fun fact — I like Golf 🏌️
