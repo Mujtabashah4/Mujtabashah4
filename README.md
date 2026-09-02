@@ -1,38 +1,55 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=200&section=header&text=Mujtaba%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55&descSize=18&descColor=00d4ff"/>
+<!-- Header. Gradient is the site's signature ramp — teal → amber → coral — not the
+     purple-to-cyan every other AI profile uses. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7a6b,50:b07c10,100:d64a26&height=200&section=header&text=Syed%20Muhammad%20Mujtaba&fontSize=42&fontColor=fbf7ef&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20production%20LLM%20systems&descAlignY=56&descSize=16&descColor=fbf7ef"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=Turning+Data+into+Decisions+%F0%9F%94%A5;Building+Intelligent+Systems+%F0%9F%A7%A0;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=900&color=D64A26&center=true&vCenter=true&repeat=true&width=640&height=48&lines=I+build+AI+systems+that+know+what+they+don%27t+know;grounded%2C+or+it+refuses;real-time+voice%2C+under+500ms;measured%2C+not+vibes)](https://mujtabashah.com)
 
-<a href="https://mujtabashah.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-mujtabashah.com-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://mujtabashah.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mujtabashah.com-0d7a6b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mujtaba-shah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2761ad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:mujtabashah1204@gmail.com"><img src="https://img.shields.io/badge/Email-d64a26?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://mujtabashah.com/Syed_Muhammad_Mujtaba_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-b07c10?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
-**[Syed Muhammad Mujtaba — AI Engineer](https://mujtabashah.com)** · production LLM systems, agentic RAG and real-time voice
+**[Syed Muhammad Mujtaba — AI Engineer](https://mujtabashah.com)** · agentic RAG, multi-agent workflows and real-time voice
 
 </div>
 
 ---
 
-### 👋 About Me
+### 📐 The numbers
 
-<div align="left">
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<div align="center">
 
-I'm a dynamic and results-driven **AI/ML Engineer** with a strong background in Machine Learning, Deep Learning, and Artificial Intelligence. I'm passionate about turning raw data into real-world impact and always looking to collaborate on meaningful AI projects.
-
-- 🌱 Currently exploring **Generative AI, Docker**
-- 💬 Ask me about **AI, Machine Learning & Full Stack Software Engineer**
-- 📫 Reach me at **mujtabashah1204@gmail.com**
+<img src="https://img.shields.io/badge/retrieval_precision@5-0.72_→_0.89-0d7a6b?style=flat-square&labelColor=1d1926"/>
+<img src="https://img.shields.io/badge/voice_latency-under_500ms-d64a26?style=flat-square&labelColor=1d1926"/>
+<img src="https://img.shields.io/badge/manual_processing-cut_50%25-b07c10?style=flat-square&labelColor=1d1926"/>
+<img src="https://img.shields.io/badge/companies_shipped_for-5-2761ad?style=flat-square&labelColor=1d1926"/>
+<img src="https://img.shields.io/badge/MS_Artificial_Intelligence-LUMS_2026-2761ad?style=flat-square&labelColor=1d1926"/>
 
 </div>
 
-<br clear="both"/>
+---
+
+### 👋 What I build
+
+My obsession is LLMs that stay **grounded** — not impressive on benchmarks, but reliable when the retrieval fails, the query is ambiguous, or the user asks something the knowledge base was never built to answer. The failure mode that matters in production isn't a model that refuses; it's a model that answers confidently from nothing.
+
+Three things in practice. **Retrieval that grades its own output** and corrects itself before answering — cross-encoder reranking over Qdrant took top-5 precision from 0.72 to 0.89. **Real-time voice**, where the whole architecture is shaped by a latency budget: speech-to-text, inference, text-to-speech and routing all finish under 500ms or the caller hears a pause. And **the full-stack product** around both, from the vector store to the interface someone actually clicks.
+
+Every number above is an output of an evaluation harness, not an impression formed from trying a few queries by hand.
+
+- 📍 **Lahore, Pakistan** · available remote
+- 🔭 Most recently **AI Innovation Specialist at IgniteTech (Crossover)** — GenAI shipped to live customers
+- 🎓 **MS Artificial Intelligence, LUMS** — advanced retrieval, query rewriting, grounding evaluation
+- 📫 **mujtabashah1204@gmail.com**
 
 ---
 
-### 🚀 Selected Work
+### 🚀 Selected work
 
 Five production systems, each written up in full on **[mujtabashah.com](https://mujtabashah.com)** — mechanism first, then the number it produced.
 
@@ -48,52 +65,40 @@ More at **[mujtabashah.com/projects](https://mujtabashah.com/projects)** · back
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,go,js,react,flask,docker,kubernetes,gcp,postgres,mongo,git,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,nextjs,react,nodejs,postgres,mongodb,redis,docker,gcp,githubactions&perline=6"/>
 </p>
 
+Grouped by what it's for, rather than everything I've ever imported:
+
+| | |
+| --- | --- |
+| **Retrieval & agents** | LangGraph · LangChain · Qdrant · FAISS · cross-encoder reranking · MCP |
+| **Models** | GPT-4o · Claude · Mistral · PyTorch · HuggingFace · fine-tuning · quantization |
+| **Voice** | Telnyx · Genesys · Retell · Vapi |
+| **Serving & product** | FastAPI · Next.js · React · Node/Express · PostgreSQL · MongoDB · Redis |
+| **Evaluation & ops** | golden sets · precision@k · MRR · groundedness scoring · LLM-as-judge · Docker · Google Cloud · GitHub Actions |
+
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mujtabashah4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mujtabashah4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-</div>
-
----
-
-### 🤝 Connect With Me
+### 🤝 Connect
 
 <div align="center">
 
-<a href="https://mujtabashah.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://mujtabashah.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d7a6b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/mujtaba-shah/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/mujtaba-shah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2761ad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:mujtabashah1204@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:mujtabashah1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-d64a26?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.kaggle.com/mujtabashah4" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<a href="https://www.kaggle.com/mujtabashah4" target="_blank"><img src="https://img.shields.io/badge/Kaggle-b07c10?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 &nbsp;
-<a href="https://x.com/mujtabashah4" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<a href="https://x.com/mujtabashah4" target="_blank"><img src="https://img.shields.io/badge/X-191510?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d64a26,50:b07c10,100:0d7a6b&height=100&section=footer"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0d1117&height=100&section=footer"/>
 </div>
