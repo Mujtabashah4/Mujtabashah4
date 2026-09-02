@@ -5,6 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=Turning+Data+into+Decisions+%F0%9F%94%A5;Building+Intelligent+Systems+%F0%9F%A7%A0;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<a href="https://mujtabashah.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-mujtabashah.com-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+**[Syed Muhammad Mujtaba — AI Engineer](https://mujtabashah.com)** · production LLM systems, agentic RAG and real-time voice
+
 </div>
 
 ---
@@ -23,6 +29,22 @@ I'm a dynamic and results-driven **AI/ML Engineer** with a strong background in 
 </div>
 
 <br clear="both"/>
+
+---
+
+### 🚀 Selected Work
+
+Five production systems, each written up in full on **[mujtabashah.com](https://mujtabashah.com)** — mechanism first, then the number it produced.
+
+| System | What it does |
+| --- | --- |
+| **[Corrective RAG with self-reflective retrieval](https://mujtabashah.com/projects/corrective-rag)** | A cyclic LangGraph state machine that grades its own retrieved documents, rewrites failing queries and falls back to web search. Cross-encoder reranking over Qdrant took top-5 precision from 0.72 to 0.89. |
+| **[Real-time voice AI agent integration](https://mujtabashah.com/projects/voice-ai-agent)** | Voice agents on Telnyx and Genesys with GPT-4 dialogue management, held under 500ms end-to-end across concurrent inbound calls. |
+| **[Multi-agent content platform](https://mujtabashah.com/projects/multi-agent-content-platform)** | A LangGraph agent graph, not a prompt chain — a critic rejects weak drafts back into the graph for another pass. |
+| **[AI-powered HRMS with semantic policy search](https://mujtabashah.com/projects/hrms-semantic-search)** | Conversational retrieval across policies and handbooks, every answer returned with the clause it came from. |
+| **[Retrieval & grounding evaluation harness](https://mujtabashah.com/projects/eval-harness)** | Golden sets per knowledge base, precision@k and groundedness scored separately, run as a CI regression gate. |
+
+More at **[mujtabashah.com/projects](https://mujtabashah.com/projects)** · background at **[mujtabashah.com/about](https://mujtabashah.com/about)**
 
 ---
 
@@ -48,11 +70,15 @@ I'm a dynamic and results-driven **AI/ML Engineer** with a strong background in 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mujtabashah4/" target="_blank">
+<a href="https://mujtabashah.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mujtaba-shah/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:mujtabashah4@gmail.com" target="_blank">
+<a href="mailto:mujtabashah1204@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
