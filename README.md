@@ -1,10 +1,21 @@
 <div align="center">
 
-<!-- Header. Gradient is the site's signature ramp — teal → amber → coral — not the
-     purple-to-cyan every other AI profile uses. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7a6b,50:b07c10,100:d64a26&height=200&section=header&text=Syed%20Muhammad%20Mujtaba&fontSize=42&fontColor=fbf7ef&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20production%20LLM%20systems&descAlignY=56&descSize=16&descColor=fbf7ef"/>
+<!-- Decorative band only. GitHub's camo proxy sanitises SVG, stripping the <style>
+     block and inline style="fill:…" that capsule-render's text depends on — so any
+     name baked into this image renders invisible on GitHub even though it looks fine
+     when the URL is opened directly. The name and tagline are real markdown below,
+     which is also the version search engines can actually read. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7a6b,50:b07c10,100:d64a26&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=900&color=D64A26&center=true&vCenter=true&repeat=true&width=640&height=48&lines=I+build+AI+systems+that+know+what+they+don%27t+know;grounded%2C+or+it+refuses;real-time+voice%2C+under+500ms;measured%2C+not+vibes)](https://mujtabashah.com)
+# Syed Muhammad Mujtaba
+
+### AI Engineer · production LLM systems
+
+**I build AI systems that know what they don't know.**
+
+grounded, or it refuses · real-time voice, under 500ms · measured, not vibes
+
+<br/>
 
 <a href="https://mujtabashah.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mujtabashah.com-0d7a6b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
@@ -95,7 +106,7 @@ Grouped by what it's for, rather than everything I've ever imported:
 &nbsp;
 <a href="https://www.kaggle.com/mujtabashah4" target="_blank"><img src="https://img.shields.io/badge/Kaggle-b07c10?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 &nbsp;
-<a href="https://x.com/mujtabashah4" target="_blank"><img src="https://img.shields.io/badge/X-191510?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/mujtabashah4" target="_blank"><img src="https://img.shields.io/badge/X-4a4238?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/><br/>
 
